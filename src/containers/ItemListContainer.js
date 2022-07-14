@@ -7,18 +7,16 @@ const ItemListContainer = () => {
 
     const [productList, setProductList] = useState([])
 
-    const onAdd = (parametro) => { alert("la cantidad comprada es:" + parametro) }
+    const onAdd = (parametro) => { alert("la cantidad comprada es: " + parametro) }
 
     const myPromise = new Promise((resolve, reject) => {
         setTimeout(() => {
             resolve(products);
-        }, 300);
+        }, 500);
     });
     myPromise.then(res => {
         setProductList(res);
     })
-
-
 
     return (
         <>
