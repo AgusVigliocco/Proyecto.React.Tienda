@@ -1,50 +1,242 @@
-[{"id":1,"Modelo":"Niko","Color":"Crimson","Precio":"$1223.36","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":2,"Modelo":"Inger","Color":"Mauv","Precio":"$928.89","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":3,"Modelo":"Luisa","Color":"Khaki","Precio":"$1459.26","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":4,"Modelo":"Deane","Color":"Purple","Precio":"$1256.51","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":5,"Modelo":"Devinne","Color":"Puce","Precio":"$706.71","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":6,"Modelo":"Ami","Color":"Violet","Precio":"$705.44","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":7,"Modelo":"Ynez","Color":"Puce","Precio":"$852.52","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":8,"Modelo":"Tabbie","Color":"Orange","Precio":"$1417.11","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":9,"Modelo":"Sergei","Color":"Pink","Precio":"$1231.35","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":10,"Modelo":"Adriana","Color":"Fuscia","Precio":"$706.96","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":11,"Modelo":"Novelia","Color":"Teal","Precio":"$1071.21","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":12,"Modelo":"Gwenny","Color":"Orange","Precio":"$999.96","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":13,"Modelo":"Kristoforo","Color":"Fuscia","Precio":"$797.14","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":14,"Modelo":"Bren","Color":"Khaki","Precio":"$760.51","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":15,"Modelo":"Preston","Color":"Green","Precio":"$819.33","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":16,"Modelo":"Kassia","Color":"Aquamarine","Precio":"$878.58","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":17,"Modelo":"Twila","Color":"Indigo","Precio":"$819.94","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":18,"Modelo":"Keely","Color":"Violet","Precio":"$953.97","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":19,"Modelo":"Onfroi","Color":"Purple","Precio":"$1425.98","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":20,"Modelo":"Netti","Color":"Pink","Precio":"$1359.61","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":21,"Modelo":"Wendy","Color":"Purple","Precio":"$818.10","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":22,"Modelo":"Wolfie","Color":"Khaki","Precio":"$941.18","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":23,"Modelo":"Verene","Color":"Pink","Precio":"$1378.53","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":24,"Modelo":"Keeley","Color":"Yellow","Precio":"$1260.92","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":25,"Modelo":"Bancroft","Color":"Aquamarine","Precio":"$978.29","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":26,"Modelo":"Dixie","Color":"Red","Precio":"$985.95","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":27,"Modelo":"Micaela","Color":"Maroon","Precio":"$931.38","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":28,"Modelo":"Delinda","Color":"Puce","Precio":"$810.79","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":29,"Modelo":"Kimberly","Color":"Fuscia","Precio":"$1392.06","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":30,"Modelo":"Kacie","Color":"Orange","Precio":"$758.81","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":31,"Modelo":"Pennie","Color":"Crimson","Precio":"$1188.40","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":32,"Modelo":"Kimmy","Color":"Yellow","Precio":"$1342.38","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":33,"Modelo":"Trixi","Color":"Goldenrod","Precio":"$1003.40","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":34,"Modelo":"Salomone","Color":"Puce","Precio":"$1131.63","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":35,"Modelo":"Pebrook","Color":"Khaki","Precio":"$883.37","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":36,"Modelo":"Lissa","Color":"Blue","Precio":"$913.58","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":37,"Modelo":"Zea","Color":"Mauv","Precio":"$1247.17","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":38,"Modelo":"Josee","Color":"Orange","Precio":"$1143.74","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":39,"Modelo":"Faber","Color":"Teal","Precio":"$1340.28","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":40,"Modelo":"Cahra","Color":"Blue","Precio":"$1015.50","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":41,"Modelo":"Ingunna","Color":"Aquamarine","Precio":"$1461.90","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":42,"Modelo":"Marlane","Color":"Red","Precio":"$1187.19","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":43,"Modelo":"Roma","Color":"Maroon","Precio":"$1243.44","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":44,"Modelo":"Benn","Color":"Maroon","Precio":"$875.59","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":45,"Modelo":"Tommy","Color":"Teal","Precio":"$802.03","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":46,"Modelo":"Darice","Color":"Pink","Precio":"$1111.09","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":47,"Modelo":"Grantham","Color":"Goldenrod","Precio":"$1036.42","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":48,"Modelo":"Clement","Color":"Green","Precio":"$1256.25","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":49,"Modelo":"Richart","Color":"Teal","Precio":"$1447.10","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"},
-{"id":50,"Modelo":"Chrysler","Color":"Purple","Precio":"$775.00","Imagen":"https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg"}]
+[
+  {
+    "id": 1,
+    "Modelo": "Niko",
+    "Color": "Crimson",
+    "Precio": "$1223.36",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 10
+  },
+  {
+    "id": 2,
+    "Modelo": "Inger",
+    "Color": "Mauv",
+    "Precio": "$928.89",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 5
+  },
+  {
+    "id": 3,
+    "Modelo": "Luisa",
+    "Color": "Khaki",
+    "Precio": "$1459.26",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 10
+  },
+  {
+    "id": 4,
+    "Modelo": "Deane",
+    "Color": "Purple",
+    "Precio": "$1256.51",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 5
+  },
+  {
+    "id": 5,
+    "Modelo": "Devinne",
+    "Color": "Puce",
+    "Precio": "$706.71",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 10
+  },
+  {
+    "id": 6,
+    "Modelo": "Ami",
+    "Color": "Violet",
+    "Precio": "$705.44",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 5
+  },
+  {
+    "id": 7,
+    "Modelo": "Ynez",
+    "Color": "Puce",
+    "Precio": "$852.52",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 10
+  },
+  {
+    "id": 8,
+    "Modelo": "Tabbie",
+    "Color": "Orange",
+    "Precio": "$1417.11",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 5
+  },
+  {
+    "id": 9,
+    "Modelo": "Sergei",
+    "Color": "Pink",
+    "Precio": "$1231.35",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 10
+  },
+  {
+    "id": 10,
+    "Modelo": "Adriana",
+    "Color": "Fuscia",
+    "Precio": "$706.96",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 5
+  },
+  {
+    "id": 11,
+    "Modelo": "Novelia",
+    "Color": "Teal",
+    "Precio": "$1071.21",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 10
+  },
+  {
+    "id": 12,
+    "Modelo": "Gwenny",
+    "Color": "Orange",
+    "Precio": "$999.96",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 5
+  },
+  {
+    "id": 13,
+    "Modelo": "Kristoforo",
+    "Color": "Fuscia",
+    "Precio": "$797.14",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 10
+  },
+  {
+    "id": 14,
+    "Modelo": "Bren",
+    "Color": "Khaki",
+    "Precio": "$760.51",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 5
+  },
+  {
+    "id": 15,
+    "Modelo": "Preston",
+    "Color": "Green",
+    "Precio": "$819.33",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 10
+  },
+  {
+    "id": 16,
+    "Modelo": "Kassia",
+    "Color": "Aquamarine",
+    "Precio": "$878.58",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 5
+  },
+  {
+    "id": 17,
+    "Modelo": "Twila",
+    "Color": "Indigo",
+    "Precio": "$819.94",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 10
+  },
+  {
+    "id": 18,
+    "Modelo": "Keely",
+    "Color": "Violet",
+    "Precio": "$953.97",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 5
+  },
+  {
+    "id": 19,
+    "Modelo": "Onfroi",
+    "Color": "Purple",
+    "Precio": "$1425.98",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 10
+  },
+  {
+    "id": 20,
+    "Modelo": "Netti",
+    "Color": "Pink",
+    "Precio": "$1359.61",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 5
+  },
+  {
+    "id": 21,
+    "Modelo": "Wendy",
+    "Color": "Purple",
+    "Precio": "$818.10",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 10
+  },
+  {
+    "id": 22,
+    "Modelo": "Wolfie",
+    "Color": "Khaki",
+    "Precio": "$941.18",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 10
+  },
+  {
+    "id": 23,
+    "Modelo": "Verene",
+    "Color": "Pink",
+    "Precio": "$1378.53",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 5
+  },
+  {
+    "id": 24,
+    "Modelo": "Keeley",
+    "Color": "Yellow",
+    "Precio": "$1260.92",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 10
+  },
+  {
+    "id": 25,
+    "Modelo": "Bancroft",
+    "Color": "Aquamarine",
+    "Precio": "$978.29",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 10
+  },
+  {
+    "id": 26,
+    "Modelo": "Dixie",
+    "Color": "Red",
+    "Precio": "$985.95",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 5
+  },
+  {
+    "id": 27,
+    "Modelo": "Micaela",
+    "Color": "Maroon",
+    "Precio": "$931.38",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 10
+  },
+  {
+    "id": 28,
+    "Modelo": "Delinda",
+    "Color": "Puce",
+    "Precio": "$810.79",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 10
+  },
+  {
+    "id": 29,
+    "Modelo": "Kimberly",
+    "Color": "Fuscia",
+    "Precio": "$1392.06",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 5
+  },
+  {
+    "id": 30,
+    "Modelo": "Kacie",
+    "Color": "Orange",
+    "Precio": "$758.81",
+    "Imagen": "https://s.cdnshm.com/catalog/mx/t/205791367/apple-iphone-13-pro-max-256gb.jpg",
+    "Stock": 10
+  }
+]

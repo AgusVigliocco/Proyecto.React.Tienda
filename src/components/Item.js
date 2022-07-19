@@ -1,6 +1,7 @@
 import React from 'react'
 import ItemCount from './ItemCount'
 
+
 const Item = ({ product }) => {
 
     return (
@@ -10,7 +11,8 @@ const Item = ({ product }) => {
                 <h4 className="card-title">{product.Modelo}</h4>
                 <p className="card-text">{product.Color}</p>
                 <p className="card-text">{product.Precio}</p>
-                <a name="" id="" class="btn btn-primary" href="#url" role="button">Detalle</a>
+                <p className="card-text"> Stock Disponible: {product.Stock}</p>
+                <a name="" id="" className="btn btn-primary" href="#url" role="button">Detalle</a>
                 <div className='m-3'>
                     <ItemCount />
                 </div>

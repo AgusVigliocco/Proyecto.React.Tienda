@@ -11,9 +11,11 @@ const ItemCount = ({ initial, stock, onAdd }) => {
   }
 
   const rest = () => {
-    if (count < stock) {
+    if (count < stock && count > 0) {
       const aux = count - 1;
       setCount(aux);
+    } else {
+      setCount(0);
     }
   }
 
