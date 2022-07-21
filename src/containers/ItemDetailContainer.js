@@ -3,7 +3,7 @@ import ItemDetail from "../components/ItemDetail"
 
 
 const product = {
-    imagen: "https://picsum.photos/200/300?image=1",
+    imagen: "../Assets/Images/Iphone1_list.jpg",
     id: 1,
     modelo: "Modelo 1",
     color: "Rojo",
