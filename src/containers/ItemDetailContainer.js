@@ -1,32 +1,28 @@
 import React, { useEffect, useState } from "react";
 import ItemDetail from "../components/ItemDetail"
+import products from "../data/MOCK_DATA.json"
+import { useParams } from "react-router-dom";
 
-
-const product = {
-    imagen: "../Assets/Images/Iphone1_list.jpg",
-    id: 1,
-    modelo: "Modelo 1",
-    color: "Rojo",
-    stock: "10",
-    precio: "$1200",
-
-}
 const ItemDetailContainer = () => {
     const [data, setData] = useState({});
+    const { id } = useParams();
 
     useEffect(() => {
-        const getData = new Promise((resolve, reject) => {
+        const getData = new Promise((resolve) => {
             setTimeout(() => {
-                resolve(product);
-            }, 2000);
+                resolve(products);
+            }, 1000);
         });
-
-        getData.then(res => setData(res));
-    }, []);
+        getData.then((res) =>
+            setData(res.find((products) => products.Modelo === id)),
+        );
+    }, [id]);
 
     return (
-        <ItemDetail data={data} />
-    );
+        <>
+            <ItemDetail data={data} />
+        </>
+    )
 }
 
 export default ItemDetailContainer;

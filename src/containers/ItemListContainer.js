@@ -19,8 +19,8 @@ const ItemListContainer = () => {
                     .then(res => setProductList(res))
                     .catch(err => console.log(err))
             }
-        }, 10);
-    });
+        }, 2000);
+    }, [id]);
     myPromise.then(res => {
         setProductList(res);
     })

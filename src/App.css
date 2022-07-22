@@ -53,3 +53,15 @@ body{
   width: 100%;
   z-index: 1;
 }
+
+.link {
+  color: rgb(35, 35, 35);
+  text-decoration: none;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  display: inline-block;
+  transition: all 0.2s;
+  cursor: pointer;
+}
+
