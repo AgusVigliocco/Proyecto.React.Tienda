@@ -4,7 +4,7 @@ import ItemCount from "../components/ItemCount";
 
 const ItemDetail = ({ data }) => {
 
-  const onAdd = (parametro) => { alert("la cantidad comprada es: " + parametro) }
+  const onAdd = (parametro) => { alert("Agregaste al carrito: " + parametro + " " + data.Modelo) };
 
 
   return (
@@ -27,15 +27,6 @@ const ItemDetail = ({ data }) => {
     </div>
 
   )
-
-
-  /*     <div className="container flex-column text-center ">
-      <h1>{data.Modelo}</h1>
-      <img src={data.Imagen} alt={data.Modelo} />
-      <h3>Stock: {data.Stock}</h3>
-      <h2>Precio: {data.Precio}</h2>
-      <ItemCount initial={0} Stock={10} onAdd={onAdd} />
-    </div> */
 
 }
 

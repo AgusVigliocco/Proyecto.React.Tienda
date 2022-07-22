@@ -34,7 +34,7 @@
   {
     "id": 2,
     "Categoria": "MacBook",
-    "Modelo": "MacBook_Air_13",
+    "Modelo": "MacBook Air 13",
     "Precio": "1200.80",
     "Imagen": "https://www.apple.com/v/mac/compare/u/images/overview/compare_macbook_air_retina_gold__bvxcq8zvah36_large.jpg",
     "Stock": "3"
@@ -42,7 +42,7 @@
   {
     "id": 2,
     "Categoria": "MacBook",
-    "Modelo": "MacBook_Air_Pro",
+    "Modelo": "MacBook Air Pro",
     "Precio": "$1320.80",
     "Imagen": "https://www.apple.com/v/mac/compare/u/images/overview/compare_macbook_air_m2_silver__du98vzvmqymq_large.jpg",
     "Stock": "6"
@@ -50,7 +50,7 @@
   {
     "id": 2,
     "Categoria": "MacBook",
-    "Modelo": "MacBook_Air_Pro_17",
+    "Modelo": "MacBook Air Pro 17",
     "Precio": "$1600.20",
     "Imagen": "https://www.apple.com/v/mac/compare/u/images/overview/compare_macbook_pro_13_silver__b61a0n20o8nm_large.jpg",
     "Stock": "8"
@@ -58,7 +58,7 @@
   {
     "id": 2,
     "Categoria": "MacBook",
-    "Modelo": "MacBook_Air_M2",
+    "Modelo": "MacBook Air M2",
     "Precio": "$1920.90",
     "Imagen": "https://www.apple.com/v/mac/compare/u/images/overview/compare_macbook_air_m2_silver__du98vzvmqymq_large.jpg",
     "Stock": "4"
@@ -66,7 +66,7 @@
   {
     "id": 3,
     "Categoria": "Watch",
-    "Modelo": "Watch_Series_5",
+    "Modelo": "Watch Series 5",
     "Precio": "$410.90",
     "Imagen": "https://www.apple.com/v/watch/compare/u/images/overview/hero/compare_hero_s7__gemvi9r3xii6_large.jpg",
     "Stock": "4"
@@ -74,7 +74,7 @@
   {
     "id": 3,
     "Categoria": "Watch",
-    "Modelo": "Watch_Series_3",
+    "Modelo": "Watch Series 3",
     "Precio": "$250.90",
     "Imagen": "https://www.apple.com/v/watch/compare/u/images/overview/hero/compare_hero_se__rzclouqawwyi_large.jpg",
     "Stock": "10"
@@ -82,7 +82,7 @@
   {
     "id": 3,
     "Categoria": "Watch",
-    "Modelo": "Watch_Series_SE",
+    "Modelo": "Watch Series SE",
     "Precio": "$180.90",
     "Imagen": "https://www.apple.com/v/watch/compare/u/images/overview/hero/compare_hero_s3__ca8thet5mtde_large.jpg",
     "Stock": "15"
