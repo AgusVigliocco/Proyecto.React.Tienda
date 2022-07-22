@@ -7,3 +7,5 @@
 <li> <ul>Bootstrap v5.2</ul> </li>
 
 <p>La idea es instalar alguna libreria mas, sobre todo alguna que brinde estilos mas dinamicos a la página. </p>
+
+<strong>Continuara...</strong>
