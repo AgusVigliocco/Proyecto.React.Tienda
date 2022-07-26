@@ -11,7 +11,7 @@ const Item = ({ product }) => {
                 <p className="card-text">{product.Categoria}</p>
                 <p className="card-text fs-5">{product.Precio}</p>
                 <p className="card-text fs-5"> Stock Disponible: {product.Stock}</p>
-                <Link to={`/item/${product.Modelo}`}><button className="btn btn-secondary" >Comprar!</button></Link>
+                <Link to={`/item/${product.Modelo}`}><button className="btn btn-secondary" >Mas detalles</button></Link>
             </div>
         </div >
 
@@ -19,6 +19,3 @@ const Item = ({ product }) => {
 }
 
 export default Item
-
-
-/*      */
