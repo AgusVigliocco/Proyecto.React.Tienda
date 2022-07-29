@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import products from "../data/MOCK_DATA.json"
+import item from "../data/MOCK_DATA.json"
 import ItemList from "../components/ItemList"
 import { useParams } from "react-router";
 
@@ -8,14 +8,14 @@ const ItemListContainer = () => {
     const [productList, setProductList] = useState([])
     const { id } = useParams()
 
-    const myPromise = new Promise((resolve, reject) => {
+    const myPromise = new Promise((resolve) => {
         setTimeout(() => {
             if (id === undefined) {
-                resolve(products)
+                resolve(item)
                     .then(res => setProductList(res))
                     .catch(err => console.log(err))
             } else {
-                resolve(products.filter(products => products.Categoria === id))
+                resolve(item.filter(items => items.Categoria === id))
                     .then(res => setProductList(res))
                     .catch(err => console.log(err))
             }

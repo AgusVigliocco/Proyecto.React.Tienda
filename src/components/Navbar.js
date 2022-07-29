@@ -33,10 +33,10 @@ export default class NavBar extends Component {
                                 <Link to={"categoria/Iphone"}> <span className='mx-4 link'>Iphone</span>  </Link>
                             </li>
                         </ul>
-                        <form className="d-flex my-2 my-lg-0 ">
+                        {/*            <form className="d-flex my-2 my-lg-0 ">
                             <input className="form-control mr-sm-2" type="text" placeholder="Buscar" />
                             <button className="btn btn-success my-2 my-sm-0 mx-2" type="submit">Buscar</button>
-                        </form>
+                        </form> */}
                         <div>
                             < CartWidget />
                         </div>
