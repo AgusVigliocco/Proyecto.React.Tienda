@@ -28,10 +28,15 @@ const CartProvider = ({ children }) => {
         }
     };
 
-    const totalProductos = () => cart.reduce((acc, item) => acc + item.quantity, 0);
+    const totalProductos = () =>
+        cart.reduce(
+            (acumulador, productoActual) => acumulador + productoActual.quantity,
+            0,
+        );
 
     const precioTotal = () => {
-        return cart.reduce((prev, producto) => prev + producto.Precio * producto.quantity, 0);
+
+        return cart.reduce((prev, producto) => prev + ((producto.Precio * producto.quantity) + ((producto.Precio * producto.quantity) * 0.21)), 0);
     }
 
     return (

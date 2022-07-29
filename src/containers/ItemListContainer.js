@@ -12,12 +12,12 @@ const ItemListContainer = () => {
         setTimeout(() => {
             if (id === undefined) {
                 resolve(item)
-                    .then(res => setProductList(res))
-                    .catch(err => console.log(err))
+                /* .then(res => setProductList(res))
+                .catch(err => console.log(err)) */
             } else {
                 resolve(item.filter(items => items.Categoria === id))
-                    .then(res => setProductList(res))
-                    .catch(err => console.log(err))
+                /*  .then(res => setProductList(res))
+                 .catch(err => console.log(err)) */
             }
         }, 2000);
     }, [id]);

@@ -9,19 +9,24 @@ const Cart = () => {
     if (cart.length === 0) {
         return (
             <div className="container">
-                <h1>Carrito vacio</h1>
-                <Link to="/">Volver a la tienda</Link>
+                <h1 className='text-light'>Carrito vacio</h1>
+                <Link to="/">
+                    <button type="button" className="btn btn-primary">
+                        Volver al catalogo
+                    </button>
+                </Link>
             </div>
         )
     }
 
     return (
-        < div className="card m-5 p-2" >
-            <div className="card-body d-flex flex-column align-items-center">
+        < div className="card d-flex" >
+            <div className='m-5 bg-danger fs-3'>
+                Total: ${precioTotal().toFixed(2)}
+            </div>
+            <div className="card-body d-flex">
                 {cart.map(product => <ItemCart key={product.id} item={product} />)}
-                <p>Total: ${precioTotal()}</p>
             </div >
-
         </div >
 
     )
