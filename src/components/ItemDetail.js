@@ -8,14 +8,13 @@ import { useState } from "react";
 const ItemDetail = ({ data }) => {
   const [itemCount, setItemCount] = useState(0);
   const { agregarCarrito } = useCartContext();
-
-
   const onAdd = (quantity) => {
     setItemCount(quantity)
     agregarCarrito(data, quantity);
   }
 
   return (
+
 
     <div className="card p-5">
       <div className="row g-0">
@@ -33,7 +32,7 @@ const ItemDetail = ({ data }) => {
             itemCount === 0
               ? <ItemCount stock={data.Stock} initial={itemCount} onAdd={onAdd} />
               : <Link to="/carrito">
-                <button className="btn btn-primary">{"Agregar " + data.quantity + " " + data.Modelo}</button>
+                <button className="btn btn-primary">{"Agregar  " + data.Modelo}</button>
               </Link>
           }
         </div>

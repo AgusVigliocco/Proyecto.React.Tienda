@@ -10,7 +10,7 @@ const CartProvider = ({ children }) => {
 
     const limpiarCarrito = () => setCart([]);
 
-    const dobleProducto = (Modelo) => cart.find(product => product.Modelo === Modelo) ? true : false;
+    const dobleProducto = (id) => cart.find(product => product.Modelo === id) ? true : false;
 
     const borrarCarrito = (id) => setCart(cart.filter(product => product.Modelo !== id));
 
